@@ -1,0 +1,17 @@
+F:\app\ShopManager\ShopManager\bin\Debug\ShopManager.exe.config
+F:\app\ShopManager\ShopManager\bin\Debug\ShopManager.exe
+F:\app\ShopManager\ShopManager\bin\Debug\ShopManager.pdb
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.csprojAssemblyReference.cache
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.Properties.Resources.resources
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.csproj.GenerateResource.cache
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.csproj.CoreCompileInputs.cache
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.exe
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.pdb
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.Views.LoginForm.resources
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.Views.AddUser.resources
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.Views.AdminForm.resources
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.Views.SalesForm.resources
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.Views.SellUI.resources
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.Views.AddProductUI.resources
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.Views.Restock.resources
+F:\app\ShopManager\ShopManager\obj\Debug\ShopManager.Views.Reports.resources
